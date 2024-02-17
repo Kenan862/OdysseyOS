@@ -1,6 +1,6 @@
 # OdysseyOS
 
-Odyssey OS: Forge Your Path in the Digital Realm
+Forge Your Path in the Digital Realm
 
 Odyssey OS is not just an operating system; it's an invitation to embark on a groundbreaking journey in the digital realm. As the first project of its kind, Odyssey OS promises to revolutionize the way users interact with their devices.
 
